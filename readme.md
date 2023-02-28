@@ -1,2 +1,2 @@
 @Sup
-https://github.io/sup
+https://von808.github.io/Sup
