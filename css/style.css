@@ -671,6 +671,51 @@ img {
     opacity: .2;
 }
 
+/* .form-done{
+    width: 250px;
+    height: 150px;
+    background: #fff;
+    border-radius: 20px;
+    border: 1px solid rgba(155, 155, 155, .8);
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, -50%, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+.form-done span{
+    font-family: 'Comfortaa', cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    color: #000;
+}
+.form-done__close{
+    text-align: right;
+    margin: 20px;
+    padding: 10px;
+    color: #fff;
+    background: orangered;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 1);
+
+    font-family: 'Comfortaa', cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+}
+.form-done__close:hover{
+    color: #000;
+    border: 1px solid rgba(0, 0, 0, 1)
+} */
+
 .footer__btn {
     text-transform: uppercase;
     font-family: 'Comfortaa', cursive;
